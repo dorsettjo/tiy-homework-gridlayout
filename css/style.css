@@ -1,0 +1,79 @@
+
+.header {
+  background-color: black;
+}
+
+.header h5 {
+  text-transform: uppercase;
+  color: white;
+}
+
+.hero {
+  text-transform: uppercase;
+  background-color: teal;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+.hero h1 {
+  text-transform: uppercase;
+  text-align: center;
+  color: white;
+  font-size: 75px;
+
+}
+.whatwedo h1 {
+  text-transform: uppercase;
+  text-align: center;
+  color: black;
+  font-weight: normal;
+  font-size: 25px;
+}
+
+.whatwedo {
+  text-transform: uppercase;
+  /*background-color: purple;*/
+  font-weight: bold;
+  color: black;
+}
+.wordundericon h3 {
+  text-transform: uppercase;
+}
+
+.what-latest h1 {
+  text-transform: uppercase;
+  text-align: center;
+  color: black;
+  font-weight: normal;
+  font-size: 25px;
+
+}
+.what-latest {
+  text-transform: uppercase;
+  /*background-color: purple;*/
+  font-weight: bold;
+  color: black;
+}
+
+.mainbody {
+  color: black;
+  background-color: gray;
+  text-align: center;
+}
+
+.col-md-4  {
+  border-width: thin;
+  outline: .25px solid green;
+  outline-offset: 5px;
+}
+.box {
+  background-color: gray;
+  height: 200px;
+  width: 100%;
+}
+.footer {
+  background-color: black;
+  color: gray;
+  text-transform: uppercase;
+
+}
