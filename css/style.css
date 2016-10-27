@@ -10,7 +10,7 @@
 
 .hero {
   text-transform: uppercase;
-  background-color: teal;
+  background-color: #13a89e;
   font-size: 70px;
   font-weight: bold;
   color: white;
@@ -21,6 +21,10 @@
   color: white;
   font-size: 75px;
 
+}
+.col-sm3 img {
+  resize: vertical:200px;
+  resize: horizontal:300px;
 }
 .whatwedo h1 {
   text-transform: uppercase;
@@ -75,5 +79,7 @@
   background-color: black;
   color: gray;
   text-transform: uppercase;
+  font-size: 65%;
+
 
 }
